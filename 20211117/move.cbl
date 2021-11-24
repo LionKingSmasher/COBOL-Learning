@@ -11,7 +11,7 @@
       ******************************************************************
 
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. MOVE_VERB.
+       PROGRAM-ID. MOVE_VER.
 
        DATA DIVISION.
            WORKING-STORAGE SECTION.
